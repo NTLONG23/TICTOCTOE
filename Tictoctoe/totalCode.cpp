@@ -289,6 +289,6 @@ int main(){
         if (continueGame == false) break ;
         }
     
-    system("pause") ;
+    system("pause") ;// newww 1
 
 }
